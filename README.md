@@ -8,3 +8,4 @@ Float_App is an experimental project with the goal of creating a usefull Windows
 
 ## Method
 ### Function Creation:
+The first step was to use BeautifulSoup and build webscraping functions that returned our desired values.
