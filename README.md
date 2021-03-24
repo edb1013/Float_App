@@ -15,4 +15,7 @@ The use of Tkinter was chosen because Tkinter allows for a wide variety of apps 
 INSERT IMAGE OF APP
 This look was precisely what we were going for and below is a photo of it with the specified ticker "AAPL" (Apple) and its returned values. 
 INSERT IMAGE OF APP WITH TICKER AND VALUES
-By comparing the returned values with those produced by the app we are able to conclude that the app works properly. The code for the app can be found [here](
+By comparing the returned values with those produced by the app we are able to conclude that the app works properly. The code for the app can be found [here](Float_app.py).
+
+## Conclusion: 
+This was the first time something like this has been attempted. Though I am happy with the result there are obvious improvements to formatting and function that can be done. 
