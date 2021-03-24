@@ -12,7 +12,7 @@ The first step was to use BeautifulSoup and build webscraping functions that ret
 
 ### App Creation:
 The use of Tkinter was chosen because Tkinter allows for a wide variety of apps as well as hands on formating. These useful formatting tools allowed for a final product visual to look like this:
-INSERT IMAGE OF APP
+![](Figures/image_app(1).PNG)
 This look was precisely what we were going for and below is a photo of it with the specified ticker "AAPL" (Apple) and its returned values. 
 INSERT IMAGE OF APP WITH TICKER AND VALUES
 By comparing the returned values with those produced by the app we are able to conclude that the app works properly. The code for the app can be found [here](Float_app.py).
