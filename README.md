@@ -8,4 +8,6 @@ Float_App is an experimental project with the goal of creating a usefull Windows
 
 ## Method
 ### Function Creation:
-The first step was to use BeautifulSoup and build webscraping functions that returned our desired values. For Market watch our basic scraping function for public float can be found [here](F&D_marketwatch.py) and our code for the oustanding shares can be found [here](Out_Shares_MW.py). For Yahoo Finance our public float code can be found [here](F&D_yahoo.py) and our outstanding share code can be found [here](Out_Shares_Yahoo.py)
+The first step was to use BeautifulSoup and build webscraping functions that returned our desired values. For Market watch our basic scraping function for public float can be found [here](F&D_marketwatch.py) and our code for the oustanding shares can be found [here](Out_Shares_MW.py). For Yahoo Finance our public float code can be found [here](F&D_yahoo.py) and our outstanding share code can be found [here](Out_Shares_Y.py).
+
+### App Creation:
